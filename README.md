@@ -2,10 +2,10 @@
 
 ### [01. Course overview + the shell](https://github.com/laiyenju/MIT-Missing-Semester-exercises/blob/master/01-course-overview-shell.md)
 
-- [ ] 1. Check if it says something like `/bin/bash` or `/usr/bin/zsh`, that means you’re running the right program.
-- [ ] 2. Create a new directory called `missing` under `/tmp`.
-- [ ] 3. Look up the `touch` program. The man program is your friend.
-- [ ] 4. Use `touch` to create a new file called `semester` in `missing`.
+- [x] 1. Check if it says something like `/bin/bash` or `/usr/bin/zsh`, that means you’re running the right program.
+- [x] 2. Create a new directory called `missing` under `/tmp`.
+- [x] 3. Look up the `touch` program. The man program is your friend.
+- [x] 4. Use `touch` to create a new file called `semester` in `missing`.
 - [ ] 5. Write the following into that file, one line at a time:
 
 ```bash
