@@ -1,6 +1,6 @@
 # Exercises of MIT Missing Semester 2020
 
-### [01. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
+### [01. Course overview + the shell](https://github.com/laiyenju/MIT-Missing-Semester-exercises/blob/master/01-course-overview-shell.md)
 
 - [ ] 1. Check if it says something like `/bin/bash` or `/usr/bin/zsh`, that means you’re running the right program.
 - [ ] 2. Create a new directory called `missing` under `/tmp`.
