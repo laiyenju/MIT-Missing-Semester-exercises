@@ -28,7 +28,7 @@ curl --head --silent https://missing.csail.mit.edu
 - [ ] 4. write a command that recursively finds all HTML files in the folder and makes a zip with them. Note that your command should work even if the files have spaces (hint: check -d flag for xargs)
 - [ ] 5. (Advanced) Write a command or script to recursively find the most recently modified file in a directory. More generally, can you list all files by recency?
 
-### [03. Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
+### [03. Editors (Vim)](https://github.com/laiyenju/MIT-Missing-Semester-exercises/blob/master/03-editor-vim-note.md)
 
 - [ ] 1. Complete `vimtutor`. Note: it looks best in a [80x24](https://en.wikipedia.org/wiki/VT100) (80 columns by 24 lines) terminal window.
 - [ ] 2. Download our [basic vimrc](https://missing.csail.mit.edu/2020/files/vimrc) and save it to `~/.vimrc`. Read through the well-commented file (using Vim!), and observe how Vim looks and behaves slightly differently with the new config.
