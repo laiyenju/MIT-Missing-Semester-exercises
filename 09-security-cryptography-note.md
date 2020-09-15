@@ -66,4 +66,8 @@ User should provide both **ciphertext** and **key** to know the plaintext.
 - hard to forge without private key
 - correct
 
+### Important
+
 Symmetric Key Cryptography is fast and Asymmetric Key Cryptography is slow. Therefore, we use Hybrid encryption instead of using Asymmetric Key Cryptography directly in practice.
+
+![](https://i.imgur.com/oe9hBKF.png)
