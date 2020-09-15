@@ -30,14 +30,14 @@ curl --head --silent https://missing.csail.mit.edu
 
 ### [03. Editors (Vim)](https://github.com/laiyenju/MIT-Missing-Semester-exercises/blob/master/03-editor-vim-note.md)
 
-- [ ] 1. Complete `vimtutor`. Note: it looks best in a [80x24](https://en.wikipedia.org/wiki/VT100) (80 columns by 24 lines) terminal window.
-- [ ] 2. Download our [basic vimrc](https://missing.csail.mit.edu/2020/files/vimrc) and save it to `~/.vimrc`. Read through the well-commented file (using Vim!), and observe how Vim looks and behaves slightly differently with the new config.
-- [ ] 3. Install and configure a plugin: [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim). (and the other detail steps)
-- [ ] 4. To practice using Vim, re-do the Demo from lecture on your own machine.
-- [ ] 5. Use Vim for all your text editing for the next month.
-- [ ] 6. Configure your other tools to use Vim bindings (see instructions above).
-- [ ] 7. Further customize your `~/.vimrc` and install more plugins.
-- [ ] 8. (Advanced) Convert XML to JSON ([example file](https://missing.csail.mit.edu/2020/files/example-data.xml)) using Vim macros. 
+- [x] 1. Complete `vimtutor`. Note: it looks best in a [80x24](https://en.wikipedia.org/wiki/VT100) (80 columns by 24 lines) terminal window.
+- [x] 2. Download our [basic vimrc](https://missing.csail.mit.edu/2020/files/vimrc) and save it to `~/.vimrc`. Read through the well-commented file (using Vim!), and observe how Vim looks and behaves slightly differently with the new config.
+- [x] 3. Install and configure a plugin: [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim). (and the other detail steps)
+- [x] 4. To practice using Vim, re-do the Demo from lecture on your own machine.
+- [x] 5. Use Vim for all your text editing for the next month.
+- [x] 6. Configure your other tools to use Vim bindings (see instructions above).
+- [x] 7. Further customize your `~/.vimrc` and install more plugins.
+- [x] 8. (Advanced) Convert XML to JSON ([example file](https://missing.csail.mit.edu/2020/files/example-data.xml)) using Vim macros. 
 
 ### [04. Data Wrangling]()
 
